@@ -38,8 +38,8 @@ export const SHABY_CONTACT = {
   whatsappUrl: 'https://wa.me/923095010409',
   facebookUrl: 'https://www.facebook.com/shabyarchitectureinteriorconstruction',
   instagramUrl: 'https://www.instagram.com/shabyconsultant/',
-  logo: '/shaby/shaby-logo-cropped.png',
-  logoBanner: '/shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png',
+  logo: './shaby/shaby-logo-cropped.png',
+  logoBanner: './shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png',
   videoUrl: 'https://shaby.com.pk/wp-content/uploads/2026/03/My-Video.mp4',
 };
 
@@ -49,7 +49,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '01',
     title: 'Architectural Design',
     shortDesc: 'We create innovative and functional architectural designs tailored to your vision and lifestyle.',
-    image: '/shaby/20-Trending-Normal-House-Front-Elevation-Designs-in-2024.jpg',
+    image: './shaby/20-Trending-Normal-House-Front-Elevation-Designs-in-2024.jpg',
     intro: '2D & 3D Architectural Design transforms your vision into blueprints of unmatched precision and aesthetic balance.',
     description: 'From preliminary planning, spatial zoning, and site analysis to comprehensive municipal approval drawings, our architectural team designs spaces that harmoniously merge artistic form with everyday practicality. We specialize in contemporary luxury elevations, classic timeless facades, and climate-responsive engineering tailored specifically to Islamabad and surrounding regions.',
     benefits: [
@@ -70,7 +70,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '02',
     title: 'Interior Design',
     shortDesc: 'We design elegant and practical interiors that enhance comfort, beauty, and usability.',
-    image: '/shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
+    image: './shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
     intro: 'Curated interior architecture combining bespoke carpentry, ambient lighting, and hand-selected luxury textures.',
     description: 'We believe exceptional interiors evoke emotion while optimizing daily function. Our interior designers curate every square inch—from false ceiling details, accent media walls, custom modular kitchens, and spa-inspired bathrooms to custom millwork and ergonomic lighting layouts.',
     benefits: [
@@ -91,7 +91,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '03',
     title: 'House Construction',
     shortDesc: 'We build strong, durable, and modern homes with complete supervision and quality control.',
-    image: '/shaby/1-kanal-classic-house-front-elevation.jpg',
+    image: './shaby/1-kanal-classic-house-front-elevation.jpg',
     intro: 'End-to-end residential construction delivering robust foundations, immaculate finishes, and lasting peace of mind.',
     description: 'Hum aapke sapno ka ghar planning se le kar completion tak design aur construct karte hain. With dedicated site engineers, rigorous concrete slump testing, high-grade steel rebar validation, and flawless masonry, we ensure your residence withstands generations. Every milestone is transparently monitored and certified.',
     benefits: [
@@ -112,7 +112,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '04',
     title: 'Commercial Construction',
     shortDesc: 'We deliver professional commercial projects that reflect your brand and business needs.',
-    image: '/shaby/download-1-1.jpg',
+    image: './shaby/download-1-1.jpg',
     intro: 'High-performance commercial plazas, corporate offices, and retail storefronts built for scale and aesthetic stature.',
     description: 'Commercial facilities require precision structural engineering, high occupant safety, rapid construction timelines, and durable commercial-grade materials. SHABY delivers comprehensive commercial solutions in Bahria Enclave, Bahria Town, and greater Islamabad, ensuring maximum rentable yield and prominent street visibility.',
     benefits: [
@@ -133,7 +133,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '05',
     title: '2D & 3D Floor Planning',
     shortDesc: 'We provide detailed 2D layouts and realistic 3D visualizations for better project understanding.',
-    image: '/shaby/20x30-House-Plan-2bhk-East-Facing-_-600sqft-Floor-Plan.jpg',
+    image: './shaby/20x30-House-Plan-2bhk-East-Facing-_-600sqft-Floor-Plan.jpg',
     intro: 'Precision drafting and photorealistic spatial simulations that eliminate ambiguity before breaking ground.',
     description: '2D Architectural Design ke zariye hum aap ke sapno ka ghar pehle kagaz par perfect planning ke sath tayar karte hain. Accurate floor plans, space planning aur smart layout designing se har inch ka behtareen use ensure karte hain. Accompanied by photorealistic 3D interior and exterior renders, you explore your residence virtually before a single brick is laid.',
     benefits: [
@@ -154,7 +154,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '06',
     title: 'Renovation & Remodeling',
     shortDesc: 'We upgrade and transform existing spaces with modern designs and improved functionality.',
-    image: '/shaby/download-37.jpg',
+    image: './shaby/download-37.jpg',
     intro: 'Reimagining dated spaces into contemporary masterpieces with modern flow, lighting, and finishes.',
     description: 'Whether revitalizing a 20-year-old residence or reconfiguring an existing commercial layout, our remodeling specialists handle structural retrofits, wall repositioning, modern plumbing replacements, and luxurious aesthetic upgrades without disrupting building stability.',
     benefits: [
@@ -175,7 +175,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '07',
     title: 'Painting & Polishing',
     shortDesc: 'We deliver premium painting and polishing services with flawless finishing and long-lasting quality.',
-    image: '/shaby/download-8.jpg',
+    image: './shaby/download-8.jpg',
     intro: 'Artisanal wall finishes, Italian polyurethane wood polishes, and weather-resistant exterior coatings.',
     description: 'The difference between ordinary and extraordinary spaces lies in surface preparation. Our master finishers use multi-coat acrylic putty, dustless mechanical sanding, high-durability elastomeric weather-shield coatings, and mirror-finish wood polishing for solid ash, oak, and teak woodwork.',
     benefits: [
@@ -196,7 +196,7 @@ export const SHABY_SERVICES: ServiceItem[] = [
     number: '08',
     title: 'Exterior & Landscape Design',
     shortDesc: 'We design attractive exteriors and landscapes that enhance the overall appearance of your property.',
-    image: '/shaby/Modern-Outdoor-Lounge-Design-_-Luxury-Pergola-Patio-with-Cozy-Seating-Garden-Lighting.jpg',
+    image: './shaby/Modern-Outdoor-Lounge-Design-_-Luxury-Pergola-Patio-with-Cozy-Seating-Garden-Lighting.jpg',
     intro: 'Outdoor living spaces, custom pergolas, soothing water features, and manicured horticulture.',
     description: 'An architectural statement is incomplete without its surrounding context. We craft tranquil outdoor sanctuaries featuring contemporary steel and timber pergolas, travertine paving, ambient garden spotlighting, automated irrigation, and resilient local flora.',
     benefits: [
@@ -221,11 +221,11 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'RESIDENTIAL',
     categoryLabel: 'House Construction • Architecture',
     location: 'Bahria Enclave, Islamabad',
-    image: '/shaby/1-kanal-classic-house-front-elevation.jpg',
+    image: './shaby/1-kanal-classic-house-front-elevation.jpg',
     gallery: [
-      '/shaby/1-kanal-classic-house-front-elevation.jpg',
-      '/shaby/download-2-1.jpg',
-      '/shaby/20-Trending-Normal-House-Front-Elevation-Designs-in-2024.jpg'
+      './shaby/1-kanal-classic-house-front-elevation.jpg',
+      './shaby/download-2-1.jpg',
+      './shaby/20-Trending-Normal-House-Front-Elevation-Designs-in-2024.jpg'
     ],
     shortDesc: 'Grand classical residence featuring symmetrical balustrades, fluted pilasters, and majestic arched openings.',
     overview: 'This landmark 1-Kanal residence exemplifies timeless architectural elegance combined with state-of-the-art structural durability. Designed for a prominent family in Islamabad, the project required meticulous balance between classical European proportion and contemporary Pakistani living standards.',
@@ -240,11 +240,11 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'ARCHITECTURE',
     categoryLabel: 'Modern Architecture • Residential',
     location: 'Islamabad',
-    image: '/shaby/download-2-1.jpg',
+    image: './shaby/download-2-1.jpg',
     gallery: [
-      '/shaby/download-2-1.jpg',
-      '/shaby/6283.webp',
-      '/shaby/2.webp'
+      './shaby/download-2-1.jpg',
+      './shaby/6283.webp',
+      './shaby/2.webp'
     ],
     shortDesc: 'Cantilevered architectural volumes with dramatic glass corners and warm wood-textured composite accents.',
     overview: 'A striking statement of modernist residential architecture. Clean geometric lines, floating cantilevered terraces, and expansive glass curtain elements create an airy, uninhibited living sanctuary overlooking natural surroundings.',
@@ -259,11 +259,11 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'COMMERCIAL',
     categoryLabel: 'Commercial Construction • Facade',
     location: 'Bahria Enclave Civic Centre, Islamabad',
-    image: '/shaby/download-1-1.jpg',
+    image: './shaby/download-1-1.jpg',
     gallery: [
-      '/shaby/download-1-1.jpg',
-      '/shaby/photo-1-1.png',
-      '/shaby/download-3.jpg'
+      './shaby/download-1-1.jpg',
+      './shaby/photo-1-1.png',
+      './shaby/download-3.jpg'
     ],
     shortDesc: 'A contemporary commercial landmark with high-performance curtain walls and flexible floorplates.',
     overview: 'Commissioned as a corporate headquarters and multi-tenant commercial plaza, this facility prioritizes corporate presence, energy efficiency, and high floorplate flexibility for financial and tech corporations.',
@@ -278,11 +278,11 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'RESIDENTIAL',
     categoryLabel: 'Landscape Design • Architecture',
     location: 'Bahria Town, Islamabad',
-    image: '/shaby/Modern-Outdoor-Lounge-Design-_-Luxury-Pergola-Patio-with-Cozy-Seating-Garden-Lighting.jpg',
+    image: './shaby/Modern-Outdoor-Lounge-Design-_-Luxury-Pergola-Patio-with-Cozy-Seating-Garden-Lighting.jpg',
     gallery: [
-      '/shaby/Modern-Outdoor-Lounge-Design-_-Luxury-Pergola-Patio-with-Cozy-Seating-Garden-Lighting.jpg',
-      '/shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
-      '/shaby/download-4.jpg'
+      './shaby/Modern-Outdoor-Lounge-Design-_-Luxury-Pergola-Patio-with-Cozy-Seating-Garden-Lighting.jpg',
+      './shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
+      './shaby/download-4.jpg'
     ],
     shortDesc: 'Curated outdoor patio featuring black powder-coated pergola, custom fire pit, and atmospheric lighting.',
     overview: 'Transforming a backyard into an open-air luxury retreat. Designed for all-season entertaining with integrated weather-resistant materials, sound integration, and cozy recessed seating.',
@@ -297,11 +297,11 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'INTERIOR',
     categoryLabel: 'Luxury Interior Design',
     location: 'Islamabad',
-    image: '/shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
+    image: './shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
     gallery: [
-      '/shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
-      '/shaby/download-4.jpg',
-      '/shaby/download-8.jpg'
+      './shaby/WhatsApp-Image-2026-02-25-at-10.56.30-AM.jpeg',
+      './shaby/download-4.jpg',
+      './shaby/download-8.jpg'
     ],
     shortDesc: 'Bespoke residential interior with fluted wall paneling, brushed brass accents, and recessed illumination.',
     overview: 'An exquisite master suite and formal living interior showcasing SHABY’s signature attention to detail. Every element from millwork to soft furnishings was tailored to the client’s lifestyle.',
@@ -316,11 +316,11 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'ARCHITECTURE',
     categoryLabel: 'Architectural Design',
     location: 'Islamabad',
-    image: '/shaby/download-3.jpg',
+    image: './shaby/download-3.jpg',
     gallery: [
-      '/shaby/download-3.jpg',
-      '/shaby/download-1-1.jpg',
-      '/shaby/21-Construction-Types-And-Methods-To-Consider.jpg'
+      './shaby/download-3.jpg',
+      './shaby/download-1-1.jpg',
+      './shaby/21-Construction-Types-And-Methods-To-Consider.jpg'
     ],
     shortDesc: 'Sculptural facade geometry combining sharp diagonal facets, recessed glazing, and textured concrete.',
     overview: 'A forward-thinking architectural project exploring modern geometric forms. The structure asserts a bold identity in the urban fabric while maintaining high thermal performance.',
@@ -335,11 +335,11 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'COMMERCIAL',
     categoryLabel: 'Structural Engineering • House Construction',
     location: 'Bahria Enclave, Islamabad',
-    image: '/shaby/download-14.jpg',
+    image: './shaby/download-14.jpg',
     gallery: [
-      '/shaby/download-14.jpg',
-      '/shaby/21-Construction-Types-And-Methods-To-Consider.jpg',
-      '/shaby/1-kanal-classic-house-front-elevation.jpg'
+      './shaby/download-14.jpg',
+      './shaby/21-Construction-Types-And-Methods-To-Consider.jpg',
+      './shaby/1-kanal-classic-house-front-elevation.jpg'
     ],
     shortDesc: 'Heavy-duty reinforced concrete structure built to highest structural and earthquake-resistant standards.',
     overview: 'A strong house begins with an uncompromising grey structure. This project showcases SHABY’s engineering rigor: razor-sharp formwork, dense vibration compaction, and continuous wet curing.',
@@ -354,10 +354,10 @@ export const SHABY_PROJECTS: ProjectItem[] = [
     category: 'ARCHITECTURE',
     categoryLabel: '2D & 3D Floor Planning',
     location: 'Islamabad',
-    image: '/shaby/20x30-House-Plan-2bhk-East-Facing-_-600sqft-Floor-Plan.jpg',
+    image: './shaby/20x30-House-Plan-2bhk-East-Facing-_-600sqft-Floor-Plan.jpg',
     gallery: [
-      '/shaby/20x30-House-Plan-2bhk-East-Facing-_-600sqft-Floor-Plan.jpg',
-      '/shaby/20-Trending-Normal-House-Front-Elevation-Designs-in-2024.jpg'
+      './shaby/20x30-House-Plan-2bhk-East-Facing-_-600sqft-Floor-Plan.jpg',
+      './shaby/20-Trending-Normal-House-Front-Elevation-Designs-in-2024.jpg'
     ],
     shortDesc: '600 sq.ft compact residential blueprint with optimized zero-waste circulation and full cross ventilation.',
     overview: 'Demonstrating that thoughtful architectural planning creates spacious living even on compact plots. Designed to accommodate a full 2BHK program with generous natural lighting.',

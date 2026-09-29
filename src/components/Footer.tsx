@@ -25,7 +25,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
             {/* Prominent Logo */}
             <div className="bg-white rounded-2xl p-3.5 inline-block shadow-sm border border-slate-200">
               <img
-                src="/shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png"
+                src="./shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png"
                 alt="SHABY Architecture • Interior • Construction"
                 className="h-16 sm:h-20 w-auto object-contain"
               />

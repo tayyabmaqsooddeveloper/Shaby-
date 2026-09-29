@@ -62,7 +62,7 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <div className="flex items-center">
                 <img
-                  src="/shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png"
+                  src="./shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png"
                   alt="SHABY Architecture • Interior • Construction"
                   className="h-13 sm:h-15 md:h-17 lg:h-19 w-auto max-w-[260px] sm:max-w-[320px] object-contain transition-transform duration-300 group-hover:scale-[1.02]"
                 />
@@ -239,7 +239,7 @@ export const Header: React.FC<HeaderProps> = ({
               {/* Header inside drawer */}
               <div className="flex items-center justify-between pb-4 border-b border-slate-200">
                 <img
-                  src="/shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png"
+                  src="./shaby/cropped-Gemini_Generated_Image_c59rgwc59rgwc59r-copy.png"
                   alt="SHABY Architecture • Interior • Construction"
                   className="h-12 sm:h-14 w-auto object-contain"
                 />

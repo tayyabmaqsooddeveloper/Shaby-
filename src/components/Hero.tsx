@@ -10,25 +10,25 @@ interface HeroProps {
 
 const HERO_SLIDES = [
   {
-    image: '/shaby/6283.webp',
+    image: './shaby/6283.webp',
     title: 'Architectural Excellence',
     tag: 'Turnkey Design & Build',
     location: 'Bahria Enclave, Islamabad'
   },
   {
-    image: '/shaby/download-1-1.jpg',
+    image: './shaby/download-1-1.jpg',
     title: 'Commercial Stature',
     tag: 'Corporate Plazas & Facades',
     location: 'Commercial Hub, Islamabad'
   },
   {
-    image: '/shaby/1-kanal-classic-house-front-elevation.jpg',
+    image: './shaby/1-kanal-classic-house-front-elevation.jpg',
     title: 'Luxury Residences',
     tag: '1 Kanal Classical Architecture',
     location: 'DHA / Bahria, Islamabad'
   },
   {
-    image: '/shaby/download-2-1.jpg',
+    image: './shaby/download-2-1.jpg',
     title: 'Modern Minimalist Living',
     tag: 'Cantilevered Glass Architecture',
     location: 'Sector G, Islamabad'

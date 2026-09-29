@@ -46,7 +46,7 @@ export const VideoSection: React.FC<VideoSectionProps> = ({
         <div className="relative rounded-3xl overflow-hidden border-2 border-blue-200 bg-slate-950 shadow-2xl p-2 sm:p-3">
           <div className="relative h-[340px] sm:h-[480px] lg:h-[540px] rounded-2xl overflow-hidden group">
             <img
-              src="/shaby/6283.webp"
+              src="./shaby/6283.webp"
               alt="SHABY Architecture Film"
               className="w-full h-full object-cover object-center filter brightness-[0.65] transition-transform duration-700 group-hover:scale-105"
             />
@@ -110,7 +110,7 @@ export const VideoSection: React.FC<VideoSectionProps> = ({
                 autoPlay
                 playsInline
                 className="w-full h-full object-contain"
-                poster="/shaby/6283.webp"
+                poster="./shaby/6283.webp"
               >
                 Your browser does not support the video tag.
               </video>

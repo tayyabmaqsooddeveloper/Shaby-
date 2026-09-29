@@ -40,7 +40,7 @@ export const CompanyOverview: React.FC<CompanyOverviewProps> = ({ onStartProject
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-2xl overflow-hidden border border-slate-200 bg-slate-100 shadow-xl group">
               <img
-                src="/shaby/download-2-1.jpg"
+                src="./shaby/download-2-1.jpg"
                 alt="SHABY Architectural Residence"
                 className="w-full h-[460px] sm:h-[540px] object-cover object-center transition-transform duration-700 group-hover:scale-105"
               />

@@ -58,7 +58,7 @@ export const TestedTrusted: React.FC = () => {
                 <div className="flex items-center gap-4">
                   <div className="w-14 h-14 rounded-full bg-white border border-slate-200 overflow-hidden flex items-center justify-center shadow-sm">
                     <img
-                      src="/shaby/testimonial-1.png"
+                      src="./shaby/testimonial-1.png"
                       alt="Verified Client Testimonial"
                       className="w-full h-full object-cover"
                       onError={(e) => {
